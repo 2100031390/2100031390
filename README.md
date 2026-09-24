@@ -8,7 +8,7 @@ Software Engineer with 1+ year of professional experience working on software ap
 * 🏦 Working on a banking technology project for Standard Chartered Bank
 * 💻 Experience with Java, Spring Boot, React.js, Node.js, Express.js, REST APIs and PostgreSQL
 * 🌱 Currently strengthening Spring Boot, microservices, TypeScript, AWS and system design
-* 🎓 B.Tech in Computer Science & Engineering — K L University
+* 🎓 B.Tech in Computer Science & Engineering and specialization is Data Science and Big Data Analytics — K L University
 * 🔎 Open to Software Engineer, Java Backend Developer and Full-Stack Developer opportunities
 
 ## 🚀 Featured Projects
