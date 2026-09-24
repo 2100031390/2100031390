@@ -25,7 +25,7 @@ A role-based room booking platform with approval workflows and CSV-based bulk on
 
 **Tech:** React.js, Node.js, Express.js, PostgreSQL, JWT
 
-## 📚 Currently Learning
+## 📚 Currently 
 
 * Advanced Java
 * Spring Boot
@@ -33,8 +33,6 @@ A role-based room booking platform with approval workflows and CSV-based bulk on
 * REST API development
 * PostgreSQL & SQL
 * AWS
-* System Design
-* TypeScript
 * AI-integrated applications
 
 ## 📫 Connect With Me
